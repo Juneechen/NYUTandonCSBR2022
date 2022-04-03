@@ -25,7 +25,7 @@ By the end of the CS Bridge Program students should have:
 - Arrays
 - Strings
 - Pointers and Dynamic allocation
- Logic
+- Logic
 - Proofs
 - Sets
 - Mathematical Functions
@@ -45,6 +45,5 @@ By the end of the CS Bridge Program students should have:
 - Memory Management
 - Introduction to Networking
 - Overview of OSI/RM
- -Physical layout of networks
-- Application Layer, Network Layer and Transport Layer
-Moses
+- Physical layout of networks
+- Application Layer, Network Layer and Transport Layer Moses
